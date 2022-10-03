@@ -1,0 +1,7 @@
+﻿Make a file type .cosc? COreSCripts
+
+Make a tokenizer
+
+Make a class used to run tokens
+
+Make a script runner

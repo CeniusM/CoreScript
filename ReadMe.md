@@ -1,0 +1,1 @@
+This is my attempt at makeing a scripting language
